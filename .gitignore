@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+**.gac
+passwords.db
 
 # C extensions
 *.so
